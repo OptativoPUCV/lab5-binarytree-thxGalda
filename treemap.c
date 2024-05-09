@@ -104,7 +104,6 @@ void removeNode(TreeMap * tree, TreeNode* node) {
             }
             
         }
-        }
     }
     
 }
