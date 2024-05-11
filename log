@@ -132,3 +132,9 @@ treemap.c:72:31: note: expected ‘TreeNode *’ but argument is of type ‘Tree
 cc1: all warnings being treated as errors
 Compilation failed
 2b702a6
+Sat 11 May 2024 12:01:58 AM UTC: 
+ treemap.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+ tests:  20|2
+total_score: 45/70
+03955ee
