@@ -161,6 +161,7 @@ Pair * upperBound(TreeMap * tree, void* key) {
             }
         }
     }
+    if (ub == NULL) return NULL;  // Añadido para evitar un error de segmentación
     return ub->pair;
 }
 
